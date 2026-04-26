@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Esto asegura que el fondo sea claro y el texto oscuro por defecto */
+:root {
+  background-color: #f9fafb;
+  color: #1f2937;
+}
